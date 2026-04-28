@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/R0driss/R0driss/main/how.gif" width="400">
+  <img src="https://raw.githubusercontent.com/R0driss/R0driss/main/how.gif" width="100%">
 </p>
 
 # 👋 Oi, seja bem-vindo!
