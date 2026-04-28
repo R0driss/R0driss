@@ -12,8 +12,6 @@ e aqui estão alguns dos meus projetinhos 🚀
 
 ## 💻 Tecnologias
 
-## 💻 Tecnologias
-
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="30"/>
