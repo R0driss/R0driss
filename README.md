@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/R0driss/R0driss/main/how.gif" width="400">
+</p>
+
 # 👋 Oi, seja bem-vindo!
 
 ## Eu me chamo Rodrigo
